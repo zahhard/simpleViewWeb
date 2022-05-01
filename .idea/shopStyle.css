@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(#f7f1f2,#038ba3) ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    background-color: rgb(30, 169, 169);
+    padding: 20px 20px  ;
+    border-radius: 20px;
+    text-decoration: none;
+    
+
+}
+.Button{
+    margin: 100px;
+    text-align: center;
+
+}
+span{
+    color:white;
+}
+a:hover{
+    background-color: rgb(30, 169, 169);
+}
